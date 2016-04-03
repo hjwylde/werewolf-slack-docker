@@ -31,4 +31,4 @@ For the Werewolves: devour all of the Villagers.
 
 ### Setup
 
-Please see [werewolf-slack#setup](https://github.com/hjwylde/werewolf-slack#setup).
+See [werewolf-slack#setup](https://github.com/hjwylde/werewolf-slack#setup).
