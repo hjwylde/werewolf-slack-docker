@@ -1,6 +1,6 @@
 # werewolf-slack-docker
 
-[![Project Status: Wip - Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](http://www.repostatus.org/badges/latest/wip.svg)](http://www.repostatus.org/#wip)
+[![Project Status: Active - The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
 [![Release](https://img.shields.io/github/release/hjwylde/werewolf-slack-docker.svg)](https://github.com/hjwylde/werewolf-slack-docker/releases/latest)
 [![Docker Stars](https://img.shields.io/docker/stars/hjwylde/werewolf-slack-docker.svg)](https://hub.docker.com/r/hjwylde/werewolf-slack-docker/)
 [![Docker Pulls](https://img.shields.io/docker/pulls/hjwylde/werewolf-slack-docker.svg)](https://hub.docker.com/r/hjwylde/werewolf-slack-docker/)
