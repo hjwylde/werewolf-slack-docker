@@ -11,7 +11,7 @@ This repository is used for the automated builds on
 werewolf-slack provides a chat interface for playing [werewolf](https://github.com/hjwylde/werewolf)
     in [Slack](https://slack.com/).
 Werewolf is a well known social party game, commonly also called Mafia.
-See the [Wikipedia article](https://en.wikipedia.org/wiki/Mafia_(party_game)) for a rundown on it's
+See the [Wikipedia article](https://en.wikipedia.org/wiki/Mafia_(party_game)) for a rundown on its
     gameplay and history.
 
 ### Game description
